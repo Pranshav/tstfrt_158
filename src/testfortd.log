@@ -1,0 +1,23 @@
+2021-Jun-21 18:27:17.651350 testfort v1.0.2.782()
+2021-Jun-21 18:27:17.651528 Module folder: ./testfortd
+2021-Jun-21 18:27:17.652489 Initializing p2p server...
+2021-Jun-21 18:27:17.652765 Binding on 0.0.0.0:8080
+2021-Jun-21 18:27:17.652904 Net service binded on 0.0.0.0:8080
+2021-Jun-21 18:27:17.652996 Attempting to add IGD port mapping.
+2021-Jun-21 18:27:21.658951 No IGD was found.
+2021-Jun-21 18:27:21.659100 P2p server initialized OK
+2021-Jun-21 18:27:21.659135 Initializing cryptonote protocol...
+2021-Jun-21 18:27:21.659161 Cryptonote protocol initialized OK
+2021-Jun-21 18:27:21.659186 Initializing core rpc server...
+2021-Jun-21 18:27:21.659224 Binding on 127.0.0.1:42081
+2021-Jun-21 18:27:21.659413 Core rpc server initialized OK on port: 42081
+2021-Jun-21 18:27:21.659463 Initializing core...
+2021-Jun-21 18:27:21.660298 Loading blockchain...
+2021-Jun-21 18:27:21.660401 Can't load blockchain storage from file.
+2021-Jun-21 18:27:21.660532 Blockchain not loaded, generating genesis block.
+2021-Jun-21 18:27:21.660704 ERROR /home/p/tf/tstfrt/src/cryptonote_core/blockchain_storage.cpp:668 coinbase transaction transaction have wrong unlock time=10, expected 6
+2021-Jun-21 18:27:21.660773 Block <1e3070c6cad2bb674401cc89d6a7be50397dce164dae15060e5857e57457dd2b> failed to pass prevalidation
+2021-Jun-21 18:27:21.660843 ERROR /home/p/tf/tstfrt/src/cryptonote_core/blockchain_storage.cpp:416 Failed to add genesis block to blockchain
+2021-Jun-21 18:27:21.660894 ERROR /home/p/tf/tstfrt/src/cryptonote_core/cryptonote_core.cpp:127 Failed to initialize blockchain storage
+2021-Jun-21 18:27:21.660943 ERROR /home/p/tf/tstfrt/src/daemon/daemon.cpp:194 Failed to initialize core
+2021-Jun-21 18:27:21.661253 Mining has been stopped, 0 finished

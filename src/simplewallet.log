@@ -1,0 +1,12 @@
+2021-Jun-21 18:26:32.811182 testfort wallet v1.0.2.782()
+2021-Jun-21 18:26:36.851328 Generated new wallet: 9FFyQbjmSn47kNx4whfiobZGAR135Xf6jPvDPqqUgNWFRmqjDKgupfQBY7orWMCJ7N6ZAY43q6dCGgCuJ1GjoVLNH6r18Xc
+view key: a5fbf78efff8fb0504a797cc5d19f92fb70ef6778448578d92899194dca38a04
+2021-Jun-21 18:26:36.851366 **********************************************************************
+Your wallet has been generated.
+To start synchronizing with the daemon use "refresh" command.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2021-Jun-21 18:27:11.012041 Read command: exit
